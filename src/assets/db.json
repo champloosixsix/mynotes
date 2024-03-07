@@ -1,19 +1,24 @@
 {
-    "notes": [
-        {
-            "id": 1,
-            "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
-            "updated": "2021-07-14T13:49:02.078653Z"
-        },
-        {
-            "id": 2,
-            "body": "Bob from bar down the \n\n- Take out trash\n- Eat food",
-            "updated": "2021-07-13T20:43:18.550058Z"
-        },
-        {
-            "id": 3,
-            "body": "Wash car",
-            "updated": "2021-07-13T19:46:12.187306Z"
-        }
-    ]
-  }
+  "notes": [
+    {
+      "id": "1",
+      "body": "Todays Agenda\n\n- get fucced",
+      "updated": "2024-03-07T00:15:17.825Z"
+    },
+    {
+      "id": "7215",
+      "body": "new notes work",
+      "updated": "2024-03-07T00:02:27.297Z"
+    },
+    {
+      "id": "df16",
+      "body": "geten",
+      "updated": "2024-03-07T00:15:21.761Z"
+    },
+    {
+      "id": "6231",
+      "body": "New Notes\n\none\ntwo\nthree",
+      "updated": "2024-03-07T00:15:24.464Z"
+    }
+  ]
+}
